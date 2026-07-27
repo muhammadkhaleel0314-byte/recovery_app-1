@@ -12,8 +12,7 @@ import qrcode
 
 # ---------- USERS ----------
 USERS = {
-    "Khaleel": "12341",
-    "Aryan Haider": "Munara",
+    "Khalil": "112341",
     "user": "1111"
 }
 
